@@ -69,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,6 +136,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "73dd22bb452674f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -156,8 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca073e2f778fb6cd",
+  "active": "aa38b5ee91fd85ad",
   "lastOpenFiles": [
+    "Ingredients_and_Steps_as_a_Whole/Ingredients.md",
+    "Main/Pound Cake Recipe.md",
     "can of sprite.md",
     "3 cups of sugar.md",
     "5 eggs.md",
@@ -165,14 +176,12 @@
     "3 cups of flour.md",
     "butter and lemon flavoring/extract.md",
     "butter and lemon flavoring",
-    "Ingredients_and_Steps_as_a_Whole/Ingredients.md",
     "Specific_Steps/Step 4.md",
     "Specific_Steps/Step 5.md",
     "Specific_Steps/Step 3.md",
     "Specific_Steps/Step 2.md",
     "Specific_Steps/Step 1.md",
     "Ingredients_and_Steps_as_a_Whole/Steps.md",
-    "Main/Pound Cake Recipe.md",
     "Untitled.md",
     "Ingredients and Steps as a Whole/Steps.md",
     "Specific Steps",
