@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "50688188e6e2285f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3743c43f60cbabbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa38b5ee91fd85ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9345f1ab2e61af40",
+    "type": "split",
+    "children": [
+      {
+        "id": "c88e01159fd0576c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e362b64d409787",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7cdacb175de1304",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Step",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca073e2f778fb6cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e79303c210ee0433",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06787f825d2776b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1aee693f6fc2958",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9d617668bcea2a07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "95564ca2718327cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7a66f113f99382d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa38b5ee91fd85ad",
+  "lastOpenFiles": [
+    "can of sprite.md",
+    "3 cups of sugar.md",
+    "5 eggs.md",
+    "3 sticks of butter.md",
+    "3 cups of flour.md",
+    "butter and lemon flavoring/extract.md",
+    "butter and lemon flavoring",
+    "Ingredients_and_Steps_as_a_Whole/Ingredients.md",
+    "Specific_Steps/Step 4.md",
+    "Specific_Steps/Step 5.md",
+    "Specific_Steps/Step 3.md",
+    "Specific_Steps/Step 2.md",
+    "Specific_Steps/Step 1.md",
+    "Ingredients_and_Steps_as_a_Whole/Steps.md",
+    "Main/Pound Cake Recipe.md",
+    "Untitled.md",
+    "Ingredients and Steps as a Whole/Steps.md",
+    "Specific Steps",
+    "Ingredients and Steps as a Whole/Ingredients.md",
+    "Ingredients and Steps as a Whole",
+    "Main",
+    "Specific Steps/Step 2.md",
+    "Specific Steps/Step 1.md",
+    "Specific Steps/Step 5.md",
+    "Specific Steps/Step 4.md",
+    "Specific Steps/Step 3.md",
+    "create a link.md"
+  ]
+}
